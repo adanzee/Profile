@@ -35,7 +35,13 @@ Goal: Build a smart research assistant — not just a search tool.
 ✅ Data extraction & structured output pipelines
 
 ---
+## 📬 Contact
 
+- 📧 Email: adan.khurram00@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/adan-khurram/  
+- 🔗 Portfolio: https://github.com/adanzee
+
+---
 ## 🔧 Tech Stack
 
 * Python
@@ -57,13 +63,4 @@ Building scalable AI systems that combine:
 * Real-world impact 💡
 
 ⭐ Open to collaboration and AI automation opportunities.
-
----
-
-🔥 Now your profile looks much stronger because:
-
-* RAG = Advanced AI concept
-* Job Detection = Practical real-world application
-* Research Automation = Project depth
-
 
