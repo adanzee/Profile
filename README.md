@@ -1,66 +1,11 @@
+# 💫 About Me:
+🚀 Who I Am<br>I am an AI Automation Engineer focused on building intelligent systems that automate complex workflows using Python, async architectures, and LLM integration.<br><br>I build practical AI-driven solutions that turn manual processes into scalable automation systems.<br><br>🤖 What I’m Currently Building<br>📚 AI Research Automation Engine<br>An intelligent system that:<br><br>Takes a topic as input<br>Automatically searches for relevant research papers<br>Crawls and retrieves content<br>Filters and organizes information<br>Structures references for easier research<br>Goal: Build a smart research assistant — not just a search tool.<br><br>🛠 What I Have Built / Worked On<br>✅ Automation scripts for workflow optimization ✅ Async-based web crawling systems ✅ RAG (Retrieval-Augmented Generation) system for intelligent document/query-based retrieval ✅ Job Detection System that detects and classifies job-related content from data sources ✅ AI-powered research automation prototype ✅ LLM integration for intelligent processing ✅ Data extraction & structured output pipelines<br><br>📬 Contact<br>📧 Email: adan.khurram00@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/adan-khurram/<br>🔗 Portfolio: https://github.com/adanzee<br>🔧 Tech Stack<br>Python<br>Async/Await<br>LLM APIs<br>Web Scraping / Crawling<br>RAG Architecture<br>Automation Tools<br>Data Processing<br>🎯 My Focus<br>Building scalable AI systems that combine:<br><br>Intelligence 🤖<br>Automation ⚡<br>Real-world impact 💡<br>⭐ Open to collaboration and AI automation opportunities.
 
 
-## 🚀 Who I Am
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adan-khurram/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adan.khurram00@gmail.com) 
 
-I am an AI Automation Engineer focused on building intelligent systems that automate complex workflows using Python, async architectures, and LLM integration.
+# 💻 Tech Stack:
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-I build practical AI-driven solutions that turn manual processes into scalable automation systems.
-
----
-
-## 🤖 What I’m Currently Building
-
-### 📚 AI Research Automation Engine
-
-An intelligent system that:
-
-* Takes a topic as input
-* Automatically searches for relevant research papers
-* Crawls and retrieves content
-* Filters and organizes information
-* Structures references for easier research
-
-Goal: Build a smart research assistant — not just a search tool.
-
----
-
-## 🛠 What I Have Built / Worked On
-
-✅ Automation scripts for workflow optimization
-✅ Async-based web crawling systems
-✅ **RAG (Retrieval-Augmented Generation) system** for intelligent document/query-based retrieval
-✅ **Job Detection System** that detects and classifies job-related content from data sources
-✅ AI-powered research automation prototype
-✅ LLM integration for intelligent processing
-✅ Data extraction & structured output pipelines
-
----
-## 📬 Contact
-
-- 📧 Email: adan.khurram00@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/adan-khurram/  
-- 🔗 Portfolio: https://github.com/adanzee
-
----
-## 🔧 Tech Stack
-
-* Python
-* Async/Await
-* LLM APIs
-* Web Scraping / Crawling
-* RAG Architecture
-* Automation Tools
-* Data Processing
-
----
-
-## 🎯 My Focus
-
-Building scalable AI systems that combine:
-
-* Intelligence 🤖
-* Automation ⚡
-* Real-world impact 💡
-
-⭐ Open to collaboration and AI automation opportunities.
 
